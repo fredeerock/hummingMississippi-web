@@ -57,12 +57,12 @@
     </div>
     <!-- /Intro -->
   
-    <!-- Services -->
+    <!-- video -->
 <div id="video" class="map">
             <iframe src="http://player.vimeo.com/video/80751511" width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
           </div>
 
-    <!-- /Services -->
+    <!-- /video -->
 
     <!-- Callout -->
     <div class="callout">
@@ -99,7 +99,7 @@ echo '</div></div>';
     </div>
     <!-- /Portfolio -->
 
-    <!-- Call to Action -->
+    <!-- contact -->
     <div id="contact" class="services">
       <div class="container">
         <div class="row">
@@ -140,7 +140,7 @@ OT+=ML.charAt(MI.charCodeAt(j)-48);
         </div>
       </div>
     </div>
-    <!-- /Call to Action -->
+    <!-- /contact -->
 
 
     <!-- JavaScript -->
