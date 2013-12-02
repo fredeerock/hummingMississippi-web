@@ -41,7 +41,7 @@
         <h1>Humming Mississippi</h1>
         <h3>An <em>interactive sculpture</em> and <em>visualization</em> of the <em>Mississippi River</em>.</h3>
         <a href="#about" class="btn btn-default btn-lg">Find Out More</a>
-                <a href="#about" class="btn btn-default btn-lg">Web Interaction <small><em>Coming Soon</em></small></a>
+                <a href="#" class="btn btn-primary btn-lg">Web Interaction <small><em>Coming Soon</em></small></a>
 
       </div>
     </div>
