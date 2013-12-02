@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- rsync -avz --progress /Applications/AMPPS/www/hummingmississippi popsn0@popsnorkle.com:public_html -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -40,6 +41,8 @@
         <h1>Humming Mississippi</h1>
         <h3>An <em>interactive sculpture</em> and <em>visualization</em> of the <em>Mississippi River</em>.</h3>
         <a href="#about" class="btn btn-default btn-lg">Find Out More</a>
+                <a href="#about" class="btn btn-default btn-lg">Web Interaction <small><em>Coming Soon</em></small></a>
+
       </div>
     </div>
     <!-- /Full Page Image Header Area -->
